@@ -9,7 +9,7 @@
 
 个人认为博客站点是需要回归文字本身的，否则像我这样的人一定会为了封面图片、主页搭配而焦头烂额。这也是我一直不敢使用 Notion 的原因（曾经为了找到喜欢的 Markdown 编辑器还尝试过 Typora、语雀、Obsidian、熊掌记）。
 
-本来想在这里再附上一份个人简历。不过以我现在的体量，来到这里的你们应该不是专门为了我的简历而来哈哈哈哈哈（我会努力做到让你们主动访问简历的 ~ ）。但还是先附上个在线版本吧：[CV_cn](https://github.com/patrickxuu)。
+本来想在这里再附上一份个人简历。不过以我现在的体量，来到这里的你们应该不是专门为了我的简历而来哈哈哈哈哈（我会努力做到让你们主动访问简历的 ~ ）。但还是先附上个在线版本吧：[CV_zh](https://www.patrickxuu.top/archive/patrickxuu-cv-zh/)。
 
 以我曾经第一个博客站点的结尾句开始吧：派大星，我们一起去抓水母吧 ~
 
@@ -33,7 +33,7 @@
 :::faq{question="如何交换友链？"}
 可以通过 GitHub Issue 联系我或者 [发送邮件](mailto:patr1ck.xu@outlook.com?subject=交换友链申请&body=站点名称：%0A链接：%0A简介：%0A头像：)，请附上站点名称、链接、简介和头像。
 
-::site-info{name="Xuu Space" url="https://astro.whono.me/" description="Notes on code, ideas, and life by Patrick Xu." avatar="https://astro.whono.me/author/avatar.webp"}
+::site-info{name="Xuu Space" url="https://patrickxuu.top" description="Notes on code, ideas, and life by Patrick Xu." avatar="https://www.patrickxuu.top/author/avatar.webp"}
 :::
 
 :::faq{question="可以转载这里的内容吗？"}

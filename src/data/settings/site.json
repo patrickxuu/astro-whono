@@ -13,8 +13,8 @@
   },
   "favicon": {
     "svg": null,
-    "png": null,
-    "appleTouchIcon": null
+    "png": "/images/site/favicon-256x256-a5c819c2.png",
+    "appleTouchIcon": "/images/site/apple-touch-icon-256x256-a5c819c2.png"
   },
   "socialLinks": {
     "github": "https://github.com/patrickxuu",
