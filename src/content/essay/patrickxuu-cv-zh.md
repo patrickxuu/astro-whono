@@ -6,7 +6,8 @@
   updatedAt: 2026-11-07,
   tags: [ cv ],
   draft: false,
-  archive: true
+  archive: false,
+  badge: CV
 }
 ---
 

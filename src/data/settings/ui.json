@@ -25,8 +25,6 @@
     "showTags": true,
     "showPrevNext": true,
     "sharePlatforms": [
-      "x",
-      "facebook",
       "email",
       "poster",
       "copy"
@@ -38,7 +36,7 @@
   "typography": {
     "readable": "noto-serif-sc",
     "copy": "lxgw-wenkai-lite",
-    "mono": "system-mono",
+    "mono": "jetbrains-mono",
     "brand": "serif-georgia"
   }
 }

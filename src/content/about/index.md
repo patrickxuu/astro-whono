@@ -3,9 +3,13 @@
 
 你好，欢迎来到这里
 
-你可以叫我 Patrick。如果你恰好在此驻足听我吐露心声，我确信这是一段伟大友情的开始。
+你可以叫我 Patrick 。如果你恰好在此驻足听我吐露心声，我确信这是一段伟大友情的开始。
 
-这可能是我的第三个正式使用的博客站点。我认为自己还是有点强迫症在身上的，不然也不会尝试一个个不同架构的博客框架、不会在换了好几次邮箱之后丢失了原来的 GitHub 账号（庆幸自己的代码做了好多离线备份，还可以 Fork 回来几个自己公开的仓库），甚至自己现在还专门留了一个 Apple 备忘录叫“强迫症会懂”。
+主包个人认为，自己是个爱好十分广泛且向往自由的 INFJ，从编程 Coding 到四处旅行（Maybe like 数字游民？反正我超爱🥰），从铁路交通爱好者到城市规划学习者，热爱科技、热爱 Apple，喜欢音乐、喜欢播客，也喜欢欧卡、城市天际线、我的世界。至少你总能在你的领域内找到一些我曾经涉足甚至喜爱过的痕迹。而有一点这样的共同话题，何尝不是我们在这繁杂世间的一丝欣喜呢。
+
+如你所见，这可能是我的第三个正式使用的博客站点。我认为自己还是有点强迫症在身上的，不然也不会尝试一个个不同架构的博客框架、不会在换了好几次邮箱之后丢失了原来的 GitHub 账号（庆幸自己的代码做了好多离线备份，还可以 Fork 回来几个自己公开的仓库），甚至自己现在还专门留了一个 Apple 备忘录叫“强迫症会懂”。
+
+（好了，主包现在又在纠结这里英文词前后加不加空格的问题了🤔）。
 
 个人认为博客站点是需要回归文字本身的，否则像我这样的人一定会为了封面图片、主页搭配而焦头烂额。这也是我一直不敢使用 Notion 的原因（曾经为了找到喜欢的 Markdown 编辑器还尝试过 Typora、语雀、Obsidian、熊掌记）。
 
@@ -15,6 +19,16 @@
 
 ## 朋友们
 
+:::friend{name="PurpleWei" url="https://purplewei.github.io/" avatar="author/avatar.webp"}
+是非常厉害的紫薇姐，会一直♾️进步下去🥰
+:::
+
+## 博客站点相关
+
+本博客站点基于 Astro 框架，使用 Whono 主题搭建（强推😏）
+
+本人也终于从 Hexo 框架换到了一直以来喜欢的 Astro。不得不惊叹于 AI Agents 的发展，曾经大一时候觉得遥不可及的 Astro，现在也已然轻松的呈现在我与看到这里的你们眼前。
+
 :::friend{name="Astro" url="https://astro.build/" avatar="https://cdn.nodeimage.com/i/LAW2Al4JZrPhfTs7ObHbisPLGwWuR6x5.webp"}
 用于构建高性能内容网站的前端框架
 :::
@@ -22,11 +36,6 @@
 :::friend{name="Whono" url="https://github.com/cxro/astro-whono" avatar="author/avatar.webp"}
 一个极简的双栏 Astro 主题
 :::
-
-:::friend{name="PurpleWei" url="https://purplewei.github.io/" avatar="author/avatar.webp"}
-来自
-:::
-
 
 ## 常见问题
 
