@@ -17,23 +17,31 @@
 
 以我曾经第一个博客站点的结尾句开始吧：派大星，我们一起去抓水母吧 ~
 
-## 朋友们
+## 朋友们 & Links
 
-:::friend{name="PurpleWei" url="https://purplewei.github.io/" avatar="author/avatar.webp"}
-是非常厉害的紫薇姐，会一直♾️进步下去🥰
+:::friend{name="PurpleWei" url="https://purplewei.github.io/" avatar="https://avatars.githubusercontent.com/u/192846597?v=4"}
+是非常厉害的紫薇姐，♾️进步🥰
+:::
+
+:::friend{name="YoSheep's 学习笔记" url="https://yosheep.com/" avatar="https://yosheep.com/img/yeah_circle.jpg"}
+汪汪队立大功 ~
+:::
+
+:::friend{name="宇宙尽头的餐馆" url="https://www.flyalready.com/" avatar="https://www.flyalready.com/images/avatar.png"}
+自你离开，我辗转难眠
 :::
 
 ## 博客站点相关
 
 本博客站点基于 Astro 框架，使用 Whono 主题搭建（强推😏）
 
-本人也终于从 Hexo 框架换到了一直以来喜欢的 Astro。不得不惊叹于 AI Agents 的发展，曾经大一时候觉得遥不可及的 Astro，现在也已然轻松的呈现在我与看到这里的你们眼前。
+本人也终于从 Hexo 框架换到了一直以来喜欢的 Astro。不得不惊叹于 AI Agent 的发展，曾经大一时候觉得遥不可及的 Astro，现在也已然轻松的呈现在我与看到这里的你们眼前。
 
 :::friend{name="Astro" url="https://astro.build/" avatar="https://cdn.nodeimage.com/i/LAW2Al4JZrPhfTs7ObHbisPLGwWuR6x5.webp"}
 用于构建高性能内容网站的前端框架
 :::
 
-:::friend{name="Whono" url="https://github.com/cxro/astro-whono" avatar="author/avatar.webp"}
+:::friend{name="Whono" url="https://github.com/cxro/astro-whono" avatar="author/avatar_whono.webp"}
 一个极简的双栏 Astro 主题
 :::
 
@@ -42,7 +50,7 @@
 :::faq{question="如何交换友链？"}
 可以通过 GitHub Issue 联系我或者 [发送邮件](mailto:patr1ck.xu@outlook.com?subject=交换友链申请&body=站点名称：%0A链接：%0A简介：%0A头像：)，请附上站点名称、链接、简介和头像。
 
-::site-info{name="Xuu Space" url="https://patrickxuu.top" description="Notes on code, ideas, and life by Patrick Xu." avatar="https://www.patrickxuu.top/author/avatar.webp"}
+::site-info{name="Xuu Space" url="https://patrickxuu.top" description="Notes on code, ideas, and life by Patrick Xu." avatar="https://www.patrickxuu.top/author/avatar.png"}
 :::
 
 :::faq{question="可以转载这里的内容吗？"}
