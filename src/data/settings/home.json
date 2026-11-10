@@ -1,5 +1,5 @@
 {
-  "introLead": "「 活着其实很好  再吃一颗苹果 」",
+  "introLead": "「 活着其实很好，再吃一颗苹果 」",
   "introMore": "更多文章请访问",
   "introMoreLinks": [
     "archive",
@@ -8,6 +8,6 @@
   "showIntroLead": true,
   "showIntroMore": true,
   "heroPresetId": "default",
-  "heroImageSrc": null,
+  "heroImageSrc": "src/assets/hero-1.jpg",
   "heroImageAlt": "Xuu Space"
 }

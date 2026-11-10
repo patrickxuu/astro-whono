@@ -10,6 +10,55 @@ draft: false
 <br />有些感受，无法被镜头承载，有些记忆难以被影像收藏。
 <br />也许，为瞬间的感受留下一份文字备份，正是抵抗遗忘最温柔却最有效的方式。
 
+Little moments from space travelling — pieced together into Xuu Space.
+
+## 2026年记
+
+### 济南的冬天
+
+很难让人不怀念那时在济南的几天时光。美食、美景、泉景、雪景，得以一次尽收眼底，这或许也是济南给予游人的温柔吧。
+
+> 人生易老天难老，岁岁重阳。今又重阳，战地黄花分外香。\
+> 一年一度秋风劲，不似春光。胜似春光，寥廓江天万里霜。\
+> <cite>— 《采桑子·重阳》</cite>
+
+<figure class="figure">
+  <img src="/images/memo/memo-26-04.jpg" alt="大明湖" />
+  <figcaption class="figure-caption">《采桑子·重阳》 于济南大明湖</figcaption>
+</figure>
+
+### 北京的夏天
+
+到访亦庄 ~ 有一种不在北京的感觉哈哈哈哈哈，感觉会是个非常宜居舒服的地方呢。
+<figure class="figure">
+  <img src="/images/memo/memo-26-03.jpg" alt="天坛一角" />
+  <figcaption class="figure-caption">天坛一角</figcaption>
+</figure>
+
+### 音乐与合唱团
+
+当在学校里听了两大学校乐团超高水准的夏夜协奏曲之后……便会彻底热爱上彩虹合唱团。
+
+明年一定要去听很多次彩虹的现场，合唱团也太良好了吧 (o^∇^o)♫
+
+### 烟台的秋天
+
+由于参与的项目与航天相关，非常有幸得以来到烟台513所参与调试。那几个月来来回回去了4次烟台，每天就在测试厂房和酒店往返，最后的那次从早上八点一路忙到了晚上九点。穿上印着“中国航天”的白大褂，工位在巨幅国旗的下方。我终于明白了那句“航天报国”的使命感与厚重感，从心底里钦佩这些航天人，也期待自己参与的卫星能够顺利上天吧。🫡
+<div style="display: flex; gap: 16px;">
+  <figure class="figure" style="flex: 1; margin: 0;">
+    <img src="/images/memo/memo-26-02.jpg" alt="不知名小灯塔" style="width: 100%;" />
+    <figcaption class="figure-caption">爱在烟台，难以离开。</figcaption>
+  </figure>
+  <figure class="figure" style="flex: 1; margin: 0;">
+    <img src="/images/memo/memo-26-01.jpg" alt="烟台" style="width: 100%;" />
+    <figcaption class="figure-caption">我们的征途是星辰大海。</figcaption>
+  </figure>
+</div>
+
+### 天津的冬天
+
+备考日记 Space travelling，未完待续。
+
 ## 2025年记
 
 ### 新屋
