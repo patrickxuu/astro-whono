@@ -53,9 +53,11 @@ Project Zenith 项目想必是需要肥马轻裘的家庭条件才能够拥有�
 ### 配置步骤
 
 1. 在 Windows 终端 PowerShell 选项卡中输入并执行：
+
 ```
 irm https://aka.ms/devconfig/full/setup.ps1 | iex
 ```
+
 2. 随后会要求获取管理员权限，便会进入脚本初始化阶段（微软称之为：Calm OS setup）。这一步会优先完成 PowerShell 7 的安装，以便后续 WinGet 脚本的实现。
    
 <figure class="figure">
@@ -94,6 +96,40 @@ irm https://aka.ms/devconfig/full/setup.ps1 | iex
 
 ## WSL Comfort 部分
 
+### 配置步骤
+
+在 Windows 终端 PowerShell 选项卡中输入并执行：
+
+```
+irm https://aka.ms/devconfig/wsl-comfort/setup.ps1 | iex
+```
 
 ## Workloads 部分
 
+### 主要内容
+
+从任意 PowerShell 窗口运行。每个脚本都会自动提权、验证签名并完成安装——无需事先克隆仓库。
+
+| 工作负载 | 安装内容 |
+| --- | --- |
+| WinUI 3 | 开发者模式、PowerShell 7、.NET SDK 10、Windows App CLI、Visual Studio Community 2026（含 .NET 桌面和 WinUI 工作负载），以及 WinUI 的 `dotnet new` 模板 |
+| WinForms | 开发者模式、PowerShell 7、.NET SDK 10，以及 Visual Studio Community 2026（含 .NET 桌面工作负载） |
+| WinAppCLI | 开发者模式、PowerShell 7、.NET SDK 10，以及 Windows App Development CLI |
+| .NET | 开发者模式、PowerShell 7，以及 .NET SDK 10 |
+| Go | PowerShell 7 和 Go |
+| Rust | PowerShell 7、rustup、stable 工具链，以及 Visual Studio Community 2026（含 C++ 工作负载、MSVC 生成工具和 Windows 11 SDK，用于 MSVC 链接器） |
+| PHP | PowerShell 7、Visual C++ 可再发行组件，以及 PHP |
+
+以下工作负载尚未改为单行命令。它们需在仓库根目录通过 [`winget configure`](https://learn.microsoft.com/windows/package-manager/winget/configure) 运行：
+
+| 工作负载 | 安装内容 |
+| --- | --- |
+| TypeScript | Node.js LTS + 全局 `typescript` |
+| Java | Microsoft Build of OpenJDK 25 LTS |
+| Python | Python 3.14 + uv |
+| SQL | SQL Server + sqlcmd + VS Code 扩展 |
+| PowerShell | PowerShell 7 + VS Code PowerShell 扩展 + PSScriptAnalyzer 设置 |
+
+### 配置步骤
+
+关于这部分内容体验，由于主包是重度 WinUI 3 开发爱好者，所以后续会主要以这个工作负载来进行体验。
