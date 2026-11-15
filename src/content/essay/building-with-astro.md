@@ -3,8 +3,8 @@ title: Building a Modern Web Application with Astro
 description: A comprehensive guide to creating fast, content-focused websites
 date: 2026-01-10
 badge: Astro
-tags: ["Astro", "Web Development", "Tutorial"]
-draft: false
+tags: [ "Astro", "Web Development", "Tutorial" ]
+draft: true
 ---
 
 Astro is a modern web framework built for content-heavy sites that need strong performance without giving up developer ergonomics.

@@ -5,7 +5,7 @@ badge: 指南
 date: 2026-06-13
 updatedAt: 2026-08-10
 tags: [ "Content Console", "指南" ]
-draft: false
+draft: true
 ---
 
 astro-whono 提供一个本地 Content Console，用于在开发环境中管理站点的写作内容。
