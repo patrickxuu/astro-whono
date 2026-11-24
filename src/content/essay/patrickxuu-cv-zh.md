@@ -4,7 +4,7 @@
   description: 此页面是 Patrick Xu 的个人简介（中文版本）,
   date: 2026-11-07,
   updatedAt: 2026-11-07,
-  tags: [ cv ],
+  tags: [ CV ],
   draft: false,
   archive: false,
   badge: CV
