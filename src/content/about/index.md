@@ -19,7 +19,7 @@
 
 ## 朋友们 & Links
 
-:::friend{name="PurpleWei" url="https://purplewei.github.io/" avatar="https://avatars.githubusercontent.com/u/192846597?v=4"}
+:::friend{name="PurpleWei" url="https://purplewei.github.io/" avatar="https://www.patrickxuu.top/author/avatar_purplewei.png"}
 ♾️进步 ~
 :::
 
